@@ -10,6 +10,12 @@ interface BlogPost {
 
 const blogPosts: BlogPost[] = [
   {
+    id: 0,
+    title: 'AI Observability from First Principles: Running Langfuse at Consumer Scale',
+    slug: 'ai-observability-langfuse-kavana',
+    date: '2026-10-09',
+  },
+  {
     id: 1,
     title: 'Building Production-Ready AI Agents: Lessons from the Trenches',
     slug: 'production-ready-ai-agents',
@@ -19,12 +25,6 @@ const blogPosts: BlogPost[] = [
     id: 2,
     title: 'Scalable Hybrid RAG: PyData Bangalore Talk',
     slug: 'scalable-hybrid-rag',
-    date: 'Coming Soon',
-  },
-  {
-    id: 3,
-    title: 'LLM Observability: Monitoring AI Systems in Production',
-    slug: 'llm-observability',
     date: 'Coming Soon',
   },
 ];
