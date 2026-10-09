@@ -13,7 +13,7 @@ const blogPosts: BlogPost[] = [
     id: 0,
     title: 'AI Observability from First Principles: Running Langfuse at Consumer Scale',
     slug: 'ai-observability-langfuse-kavana',
-    date: '2026-10-09',
+    date: '2026-04-15',
   },
   {
     id: 1,

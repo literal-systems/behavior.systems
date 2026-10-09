@@ -1,6 +1,6 @@
 ---
 title: "AI Observability from First Principles: Running Langfuse at Consumer Scale"
-date: "2026-10-09"
+date: "2026-04-15"
 category: "AI Engineering"
 excerpt: "What observability is actually for, when an LLM product needs it, and what a year of running Langfuse for Kavana at three million traces a day taught me about tracing, cost, and LLM-as-a-judge evals."
 readTime: "14 min read"
